@@ -1,0 +1,18 @@
+.notfound-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 30px;
+}
+.notfound-container img {
+  height: 400px;
+}
+.notfound-container h1 {
+  color: #183b56;
+  font-family: 'Roboto';
+}
+.notfound-container p {
+  color: #5a7184;
+  font-family: 'Roboto';
+}

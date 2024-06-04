@@ -1,0 +1,21 @@
+.home-container {
+  background-color: #183b56;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  padding: 20px;
+}
+.heading {
+  color: #fff;
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 64px;
+  margin-top: 50px;
+}
+.digital-card {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
